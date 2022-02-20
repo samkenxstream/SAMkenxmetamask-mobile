@@ -285,7 +285,7 @@ class ApproveTransactionReview extends PureComponent {
 		/**
 		 * Prompts protect modal
 		 */
-		protectWalletModalVisible: PropTypes.bool,
+		protectWalletModalVisible: PropTypes.func,
 		/**
 		 * The saved nickname of the address
 		 */
