@@ -1,4 +1,5 @@
 import './shim.js';
+import './lockdown.umd.js';
 
 import 'react-native-gesture-handler';
 import 'react-native-url-polyfill/auto';
